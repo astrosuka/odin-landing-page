@@ -52,7 +52,7 @@ header {
     margin-left: auto;
     display: flex;
     gap: 24px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 300;
 }
 
@@ -73,14 +73,14 @@ header {
 }
 
 .hero-content * {
-    margin-bottom: 18px;
+    margin-bottom: 32px;
 }
 
 .hero-main-text {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
-    margin-bottom: 12px;
+    /* margin-bottom: 12px; */
 }
 
 .hero-secondary-text {
@@ -111,7 +111,7 @@ header {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
-    margin-bottom: 32px;
+    margin-bottom: 48px;
 }
 
 .info-card-wrapper {
